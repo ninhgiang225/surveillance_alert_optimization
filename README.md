@@ -67,7 +67,7 @@ python3 api.py
 ```
 ---
 
-## 📊 Model Features
+##  Model Features
 
 The ML model uses **18 behavioral features** to classify alerts:
 
